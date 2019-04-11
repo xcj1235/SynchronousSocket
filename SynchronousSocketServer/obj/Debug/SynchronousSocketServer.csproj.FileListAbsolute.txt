@@ -1,0 +1,7 @@
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\SynchronousSocketServer\bin\Debug\SynchronousSocketServer.exe.config
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\SynchronousSocketServer\bin\Debug\SynchronousSocketServer.exe
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\SynchronousSocketServer\bin\Debug\SynchronousSocketServer.pdb
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\SynchronousSocketServer\obj\Debug\SynchronousSocketServer.csprojAssemblyReference.cache
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\SynchronousSocketServer\obj\Debug\SynchronousSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\SynchronousSocketServer\obj\Debug\SynchronousSocketServer.exe
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\SynchronousSocketServer\obj\Debug\SynchronousSocketServer.pdb

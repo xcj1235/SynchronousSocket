@@ -1,0 +1,7 @@
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\InputSocketServer\bin\Release\InputSocketServer.exe.config
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\InputSocketServer\bin\Release\InputSocketServer.exe
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\InputSocketServer\bin\Release\InputSocketServer.pdb
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\InputSocketServer\obj\Release\InputSocketServer.csprojAssemblyReference.cache
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\InputSocketServer\obj\Release\InputSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\InputSocketServer\obj\Release\InputSocketServer.exe
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\InputSocketServer\obj\Release\InputSocketServer.pdb

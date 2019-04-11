@@ -1,0 +1,6 @@
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\AsynchronousSocketClient\bin\Release\AsynchronousSocketClient.exe.config
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\AsynchronousSocketClient\bin\Release\AsynchronousSocketClient.exe
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\AsynchronousSocketClient\bin\Release\AsynchronousSocketClient.pdb
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\AsynchronousSocketClient\obj\Release\AsynchronousSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\AsynchronousSocketClient\obj\Release\AsynchronousSocketClient.exe
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\AsynchronousSocketClient\obj\Release\AsynchronousSocketClient.pdb

@@ -1,0 +1,10 @@
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\TestClientForms\bin\Release\TestClientForms.exe.config
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\TestClientForms\bin\Release\TestClientForms.exe
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\TestClientForms\bin\Release\TestClientForms.pdb
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\TestClientForms\obj\Release\TestClientForms.csprojAssemblyReference.cache
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\TestClientForms\obj\Release\TestClientForms.Properties.Resources.resources
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\TestClientForms\obj\Release\TestClientForms.csproj.GenerateResource.cache
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\TestClientForms\obj\Release\TestClientForms.csproj.CoreCompileInputs.cache
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\TestClientForms\obj\Release\TestClientForms.exe
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\TestClientForms\obj\Release\TestClientForms.pdb
+C:\Users\XCJ-NEWPC\source\repos\SynchronousSocket\TestClientForms\obj\Release\TestClientForms.ClientForm.resources
